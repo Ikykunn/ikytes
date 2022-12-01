@@ -39,7 +39,7 @@
  
  "payment": {
     "qris": {
-      "link_nya": "Link gambar qris lu", 
+      "link_nya": "https://telegra.ph/file/e684d49ce83e57673c848.jpg", 
       "atas_nama": "ikystore" 
     },
     "dana": {
