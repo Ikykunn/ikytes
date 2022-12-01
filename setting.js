@@ -1,6 +1,6 @@
  {
- "contactOwner": "6283817161861",
- "contactOwner2": "6285878836361", 
+ "contactOwner": "6285878836361",
+ "contactOwner2": "6283817161861", 
  "botName": "iky Bot",
  "ownerName": "rizki lu",
  "sessionName": "session",
@@ -8,7 +8,7 @@
  "packname": "iky",
  "author": "bot",
  
- "youtube": "YouTube lu kalo ga punya kasih tanda min (-) ajah",
+ "youtube": "https://youtube.com/@RIZKIIRFAN",
  "github": "https://github.com/rizkiwibu",
  "instagram": "ikykunnnn",
  "tiktok": "@rizkiirfan9",
